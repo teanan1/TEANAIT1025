@@ -21,7 +21,13 @@ The control unit takes what some would call commands,if the command invovles mat
 
 CPU, Input & Output
 
+after scanning items  self check, the amount goes to the inpt, it is then computed to binary form, the data is stored in the memory and the cpu calculates the data sending it to output , displaying the total.
+
+
 Logic Gates and Circuits
+
+The purpose or function of a truth table is to explain the possible outcome of specified logic function.
+The nand gate and, and gate both contain outcomes where 3 of the same output are repeatitive and one outcome is opposite.
 
 
 IEEE
