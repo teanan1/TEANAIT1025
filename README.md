@@ -35,8 +35,9 @@ IEEE
 IEEE is one of the largest organizations that soley electrical and electronic engineers, including those of science, meds and technology professions. IEEE was designed to support professoinals in specified feilds with technology that underlies modern civilization. 
 
 Data Representation
-
 Numeric Conversions
+
+the difference between decimal, binary and hexadecimal is that a decimal is to be deconstrusted, binary is a way of representing numbers using power of 2, a hexadecimal is used to represent a number using a power of 16.
 
 Hexadecimal Color Representation
 
