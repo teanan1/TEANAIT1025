@@ -41,7 +41,5 @@ the difference between decimal, binary and hexadecimal is that a decimal is to b
 
 Hexadecimal Color Representation
 
-
-Conclusion
-
-Include your conclusion here...
+the color #ab00ff is the color purple. it is made up of 67.1% red,0% green, 100% blue, 32.9% cyan, 100% magenta, 0% yellow and 0% black.
+This color would be very problematic, i say thijs because the color cannot be correctly seen my vision impaired people. This color can be intrupted many different ways by people with medcial conditions , disabilities and more.
