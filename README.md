@@ -32,6 +32,7 @@ The nand gate and, and gate both contain outcomes where 3 of the same output are
 
 IEEE
 
+IEEE is one of the largest organizations that soley electrical and electronic engineers, including those of science, meds and technology professions. IEEE was designed to support professoinals in specified feilds with technology that underlies modern civilization. 
 
 Data Representation
 
