@@ -61,6 +61,13 @@ Utility software includes progams that allow you to fixor modify your computer i
  pseudo-code is used to help programmers create algorithms and plan out apps beforewriting them.
  The differences between a interperted langauge and complied language is that complied language takes a program in whole, translates and executes, a interpreted anguage takes lines of codes without translating.
  
- Career exploration3
+ Career explorations
+ College Central
+ 
+during my research on bls.com , i found that my career in goal requires a bachelor's degree, has about 50,000 new jobs , has much a faster average growth and makes 80,000 and up per year. No training is required.
+
+ceritifcations 
+
+while exploring cerifications in i.t , I found that cisco is used as a starting point for entering the feild of informational technology. I also found that cissp is widely otained by those havehave experiance in security practices. CompTIA is a new test in factit hasnt come out yet. CompTIA is a intermediate feild that is obtained for high stae cybersecurity.
  
  
