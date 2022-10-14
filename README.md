@@ -43,3 +43,24 @@ Hexadecimal Color Representation
 
 the color #ab00ff is the color purple. it is made up of 67.1% red,0% green, 100% blue, 32.9% cyan, 100% magenta, 0% yellow and 0% black.
 This color would be very problematic, i say thijs because the color cannot be correctly seen my vision impaired people. This color can be intrupted many different ways by people with medcial conditions , disabilities and more.
+
+
+software
+
+Theoperatingsystem manages the hardware creating the bridge orinterface between the hardware and user.
+The application executes a specific goal such as word processing, calculations on a spread sheet or surfing the internet usong your favorite browser.
+Utility software includes progams that allow you to fixor modify your computer in some way, like an anti virus.
+ 
+ ERP is asoftware that utilizes a central data base that is implemented through out the enire organization.
+ 
+ Virtulization
+ virtualization allows various operating systems and applications to run on the same serve which creates higher efficency when it comes to hardware.
+ The difference between virtulization and cloud computing is that cloud computing is the enviorment and virtulization is the technology withtin the enviorment.
+ 
+ python
+ pseudo-code is used to help programmers create algorithms and plan out apps beforewriting them.
+ The differences between a interperted langauge and complied language is that complied language takes a program in whole, translates and executes, a interpreted anguage takes lines of codes without translating.
+ 
+ Career exploration3
+ 
+ 
