@@ -70,4 +70,6 @@ ceritifcations
 
 while exploring cerifications in i.t , I found that cisco is used as a starting point for entering the feild of informational technology. I also found that cissp is widely otained by those havehave experiance in security practices. CompTIA is a new test in factit hasnt come out yet. CompTIA is a intermediate feild that is obtained for high stae cybersecurity.
  
+ co-opps
  
+ To get co-opp i would need to do alotof reflection to deteremine rather i.t will be my set feild. I would explore skill sets and readiness as far as my ability to grasp what all is beig taught in our i.t class. 
