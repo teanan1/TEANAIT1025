@@ -73,3 +73,7 @@ while exploring cerifications in i.t , I found that cisco is used as a starting 
  co-opps
  
  To get co-opp i would need to do alotof reflection to deteremine rather i.t will be my set feild. I would explore skill sets and readiness as far as my ability to grasp what all is beig taught in our i.t class. 
+
+Industry Associations / Student Organizations
+
+The student organiztion i chose to pick is Black American council. The purpose of B.A.C is to provide programs to support student rententionand academic success. I believe a membership would be benefical because it will allow me to experience black networking first hand and become more in tune with black successores.
