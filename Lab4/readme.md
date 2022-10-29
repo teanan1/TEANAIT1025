@@ -20,5 +20,8 @@ It matters to developers whether they use lossy or lossless compresion because o
 
 The similarities between gif and png are that the are both bitmapped image formats. the difference between jpeg and pngis that jpeg uses lossy compression to create smaller file sizes and are prone to pixielation and strange halos, png uses lossless data compression and it was created to replace gif format.
 
+File Properties
 
+my design is made up of a sqaure shape with a border line in size 2 shadow 4px for both offset x and y, color black. The letters T ( width 52.961 and length 59.5934) and L ( width 18.7013 and length 30.2967) is made up of pen points with border lines of size 1 shadow 4px for offset x and y. the phrase your closet and mine font in size 10 free hand center pointed (width 229 and length 117). My logo required five layers.
 
+The file size is 130 KB (133,331 bytes). it opens with microsoft Edge. I dont believe I should open with anything other than micro soft I say this because the file size show no difference when opening with other apps
