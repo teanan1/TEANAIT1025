@@ -17,4 +17,14 @@ The benefit of a switch rather a router would be that a switch is intelligent, i
  both the Infrastructure Topology and Wireless Mesh have motors that connect to a switch , both consist of wireless access points. I perfer the wirless mesh connection. I say this because it allows for better timeing and less hassle rather than the infrastucture topology that would require multiple cable connections.
  
  
+Network Design
 
+The topology I choose to demonstate is frastructure Topology.  My network diagram consists of two computers, a printer, a router,and a wireless access point. The router connects to a switch , which is connected to two computers and a wireless access point.The wireless access point connects to wirelessly to a printer and a laptop.
+
+NSA/CSS 
+
+The NSA Cybersecurity prevents and eradicates threats to U.S. national security systems with a focus on the Defense Industrial Base and the improvement of our weapons’ security. Through our Cybersecurity Collaboration Center, NSA partners with allies, private industry, academics, and researchers to strengthen awareness and collaboration to advance the state of cybersecurity.
+
+Cybersecurity and Encryption 
+
+Information Systems Security 
