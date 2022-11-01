@@ -28,3 +28,14 @@ The NSA Cybersecurity prevents and eradicates threats to U.S. national security 
 Cybersecurity and Encryption 
 
 Information Systems Security 
+
+if I were aprt of an amazon online chat , the information security traid "Confidentiality" would play a big role when speaking with customers about account access. As a worker I would have to make sure that no one could access any account information with acception of the person themselve. " Integrity" would play a fair role, for example I would have to make sure that all data is maintained correctly or with no modifications. "availablity" I would have to make sure that at all times customers wil be able to access their account and all account information.
+
+One daily taks that reqiures auehtification would be opening my phone. for axample I have to enter a code or use face regconigtion to get into my phone in order to use it. Another daily task that requires authentification wold be checking my emails. For axample I have to enter a passcode in order to access my account. The last example would be buying items at the store using credit car or apple pay, you have to enter a passcode for that as well.
+
+ACL or Access control list is executed after authentification is verified. It identifies who can acess the account information and if the have the ability to change,read,delete or add components. one advantage of this is that it correctly maintains the confidentiality of the users account. One disadvantage would be that it may fail in the Availability apect.
+
+RBAC or Role based access control is an improved version of ACL. RBAC both identifies who can do what and lets them have access instead, of gving users access rights to an information resources. one advantage of RBAC is that it highly maintains the Availability aspect but may have small failures in the interigrety and Confidentiality aspect.
+
+
+
