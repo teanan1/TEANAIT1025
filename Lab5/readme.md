@@ -37,5 +37,18 @@ ACL or Access control list is executed after authentification is verified. It id
 
 RBAC or Role based access control is an improved version of ACL. RBAC both identifies who can do what and lets them have access instead, of gving users access rights to an information resources. one advantage of RBAC is that it highly maintains the Availability aspect but may have small failures in the interigrety and Confidentiality aspect.
 
+we need public key cryptography because in order to keep all data secure their will need to be encryptions to stop others from getting it.
 
+Cybersecurity and Encryption
 
+my encrypted message was "hello". when clicking the spinner the letter "A" puts out an encrypted message the same as the actual message I typed. other letters sent actual encrypted messages; when the spinner is on b the encryption of hello is "ifmmp".
+
+when typing in my sentence I noticed that the alaphabet letter bars on the graph go up as I type each letter. For example my sentence contains 5 e's as I type the letters e the bar goes up. If it were in french the letter counts would differ do to the fact that some lanuages are more abstract when it comes to spelling , others are more complex and reqires more letters.
+
+Polyalphabetic cipher is a cipher using multiple alphabets to encrypt.
+
+The phrase I typed is "hello my name is teana", with the shift word as state.
+
+brute force
+
+A brute force attack is performed using trail and error to hack accounts. Brute force relates to kerckhoffs's principle because it gives principles that promote a secured cryptosystem.
