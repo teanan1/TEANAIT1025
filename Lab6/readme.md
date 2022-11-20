@@ -27,3 +27,6 @@ TCP/IP is used to define the details of how data is sent and received through ne
  one of the risks described in the article is that Web page addresses can be disguised or take you to an unexpected site.
  
   Internet Programming 
+Tim berner-lee is the inventor of the World Wide Web and Director and Dr. Jeffrey Jaffe, W3C CEO. Tim created the world wide web to share files with others.
+
+the standard I chose was Semantic Web. I chose this because stacks are what make up efficent technology and allowss room for advancement.
