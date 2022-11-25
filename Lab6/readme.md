@@ -30,3 +30,18 @@ TCP/IP is used to define the details of how data is sent and received through ne
 Tim berner-lee is the inventor of the World Wide Web and Director and Dr. Jeffrey Jaffe, W3C CEO. Tim created the world wide web to share files with others.
 
 the standard I chose was Semantic Web. I chose this because stacks are what make up efficent technology and allowss room for advancement.
+
+HTML5 and CSS 
+
+The differemce between xml and html :
+XML was designed to carry data - with focus on what data is
+HTML was designed to display data - with focus on how data looks
+XML tags are not predefined like HTML tags are
+
+ Components of a URL 
+ domain: www.amazon.com
+ edu: top level domain
+ scheme: https
+ default page:no file path provided
+ anchor:specific location on a page.
+parameters: result of search
