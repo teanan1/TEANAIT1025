@@ -13,5 +13,13 @@ The constructor method is used to initialize data. It is run as soon as an objec
 A class is like a template more to establish, an object is a phycial prototype. Objects are instantiated by identifying the class then turning the instance into a physical instance.
 
  Unified Modeling Language (UML
+ is an international, open membership, not-for-profit technology standards consortium, founded in 1989.The Unified Modeling Language (UML) was created to forge a common, semantically and syntactically rich visual modeling language for the architecture, design, and implementation of complex software systems both structurally and behaviorally. 
  
- 
+ object-a specific type of shark
+class- shark
+ inheritance-sammy
+ encapsulation-definition of a shark
+abstraction-swim(self)
+
+ Unified Modeling Language (UML)
+ Ive matched the terms as i did using my backgroung knowledge on the word and the role and postion each defintion plays.
